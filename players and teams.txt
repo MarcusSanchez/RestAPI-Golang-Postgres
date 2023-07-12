@@ -1,0 +1,48 @@
+{
+  "team_name": "Miami Heat",
+  "location": "Miami",
+  "nickname": "Culture",
+  "players": [
+    {
+      "player_name": "Jimmy Butler",
+      "position": "SF"
+    },
+    {
+      "player_name": "Tyler Herro",
+      "position": "SG"
+    },
+    {
+      "player_name": "Bam Adebayo",
+      "position": "C"
+    },
+    {
+      "player_name": "Caleb Martin",
+      "position": "SF/PF"
+    },
+    {
+      "player_name": "Kevin Love",
+      "position": "PF"
+    }
+  ]
+}
+
+{
+  "team_name": "Denver Nuggets",
+  "location": "Denver",
+  "nickname": "Nuggs",
+  "players": [
+    {
+      "player_name": "Nikola Jokic",
+      "position": "C"
+    },
+    {
+      "player_name": "Jamal Murray",
+      "position": "SG"
+    },
+    {
+      "player_name": "Michael Porter Jr",
+      "position": "SF"
+    }
+  ]
+}
+
